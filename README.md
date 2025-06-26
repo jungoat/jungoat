@@ -14,7 +14,10 @@ I am currently studying at Hanyang University ERICA and plan to graduate in 2026
 ## Research & Experience  
 
 - ETRI 하계 연구연수생, 2025.07 ~ 2025.08  
+##  Qualification
 
+
+- [빅데이터분석기사](https://www.q-net.or.kr), 2025.07
 
 
 <!--

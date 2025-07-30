@@ -8,8 +8,8 @@ I am currently studying at Hanyang University ERICA and plan to graduate in 2026
 
 ## 🏆 Competitions & Awards  
 
-- 2025 창의적 종합설계 경진대회 대상 (한양대학교 ERICA )
-- 2025 캡스톤디자인 FAIR 금상 (한양대학교 ERICA )
+- 2025 창의적 종합설계 경진대회 대상 
+- 2025 캡스톤디자인 FAIR 금상 
 
 ## Research & Experience  
 

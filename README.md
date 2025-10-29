@@ -1,9 +1,10 @@
 ![치이카](/123.jpg)
 ## Hi there 👋
 Hello. I`m Junhyuk Lim, and I am double majoring in Electronic Engineering and Industrial Management Engineering, dreaming of becoming an AI developer specializing in various manufacturing process data :)
-a :)
 
-I am currently studying at Hanyang University ERICA and plan to graduate in 2026.
+- B.S. in Electronic Engineering & Industrial Management Engineering, Hanyang University ERICA (Graduated 2026)
+- M.S. Student, Industrial Data Engineering, Hanyang University (2026– )
+
 ## Welcome to my Github ^~^
 
 ## 🏆 Competitions & Awards  

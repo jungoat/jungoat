@@ -10,7 +10,8 @@ Hello. I`m Junhyuk Lim, and I am double majoring in Electronic Engineering and I
 ## 🏆 Competitions & Awards  
 
 - 2025 창의적 종합설계 경진대회 대상 
-- 2025 캡스톤디자인 FAIR 금상 
+- 2025 캡스톤디자인 FAIR 금상
+- 2025 지능형 로봇 컨소시엄 경진대회 창의상
 
 ## Research & Experience  
 

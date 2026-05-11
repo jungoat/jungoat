@@ -35,11 +35,3 @@ Minor in **Robot Vision AI**
 ## 🌱 Velog
 
 [![Velog](https://img.shields.io/badge/velog-@zhfk123-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@zhfk123/posts)
-
-**Recent Posts**
-
-최근 작성한 글 — [전체 보기](https://velog.io/@zhfk123/posts)
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-

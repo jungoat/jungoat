@@ -12,7 +12,11 @@ jobs:
     name: Update README with latest blog posts
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://v2.velog.io/rss/@zhfk123"
           max_post_count: 5
+          commit_message: "chore: update velog posts"
+          committer_username: "blog-post-bot"
+          committer_email: "blog-post-bot@example.com"

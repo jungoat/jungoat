@@ -32,6 +32,14 @@ Minor in **Robot Vision AI**
 
 ---
 
-## 🌱 Velog
+## 🔗 Links
 
-[![Velog](https://img.shields.io/badge/velog-@zhfk123-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@zhfk123/posts)
+<a href="https://velog.io/@zhfk123/posts">
+  <img src="https://img.shields.io/badge/Velog-@zhfk123-20C997?style=for-the-badge&logo=velog&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/%EC%A4%80%ED%98%81-%EC%9E%84-479360370/">
+  <img src="https://img.shields.io/badge/LinkedIn-임준혁-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:zhfk85446095@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-zhfk85446095-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>

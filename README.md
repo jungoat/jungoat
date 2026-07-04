@@ -2,11 +2,8 @@
 
 ## About
 
-Double Major in **Electronic Engineering & Industrial Management Engineering**
-Minor in **Robot Vision AI**
-
-- **B.S.**, Hanyang University ERICA (2020~2026)
-- **M.S. Student**, Industrial Data Engineering, Hanyang University (2026~)
+- **B.S.**, Double Major in **Electronic Engineering & Industrial Engineering** Minor in **Robot Vision AI**, Hanyang University ERICA (2020~2026)
+- **M.S. Student**, **Industrial Data Engineering**, Hanyang University (2026~)
 
 ---
 
